@@ -5,3 +5,5 @@
 2. conda activate genai
 
 3. pip install -r requirements.txt
+   
+4. streamlit run app.py
