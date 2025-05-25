@@ -1,0 +1,5 @@
+[server]
+enableFileWatcher = false
+fileWatcherType = "none"
+
+

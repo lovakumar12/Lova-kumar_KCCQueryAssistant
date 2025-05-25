@@ -1,0 +1,11 @@
+rag_system/
+│── data/
+│   └── questionsv3.csv
+│── src/
+│   ├── __init__.py
+│   ├── data_processing.py
+│   ├── embeddings.py
+│   ├── retrieval.py
+│   └── generation.py
+│── app.py
+│── requirements.txt

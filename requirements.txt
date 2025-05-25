@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+python-dotenv
+langchain-community
+wikipedia
+langchain-chroma
+
+bs4
+unstructured
+langchain_huggingface 
+langchain-ollama 
+streamlit>=1.28.0
+torch>=2.0.0
